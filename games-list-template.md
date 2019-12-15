@@ -23,6 +23,7 @@ better focus.
 * museum
 * quit
 
+Or: See guide.
 ### Save files
 
 * Link to save for fighting Lavos
@@ -35,3 +36,12 @@ better focus.
 * Higher beep in tutorial is when you should press A to play a beat.
 * You should guard whenever this character begins speaking this line
   to guard against this attack.  
+
+### Guides
+
+See [this guide](guides/readme.md)
+
+### Demonstrations
+
+See [this](demos/readme.md)
+
