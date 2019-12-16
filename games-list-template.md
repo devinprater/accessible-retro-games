@@ -1,41 +1,24 @@
 ## Example game
 
-This example will hopefully give an idea of the structure that seems
-best to me for this file.
+Game info
 
-### Notes
+### Accessibility Notes
 
-This game is of the “example” genre. It has example characters, with
-an example style of combat. It’s stages may or may not have traps, and
-each stage may or may not be distinguishable by background sound.
-Music and sound may have volume options to turn down, or off music for
-better focus.
+Accessibility issues and workarounds, as well as instructions for
+unclear parts: controls, ways to get through levels, ETC.
 
 ### Menu
 
-* single player
-  * Fight
-  * options
-  * manual
-* Multiplayer
-  * Lobby
-  * friend cards
-* museum
-* quit
+Menu structure for main menu and others. Please use list items.
 
-Or: See guide.
 ### Save files
 
-* Link to save for fighting Lavos
-* Link to save for fighting Magus
-* Link to save for racing Johnny.
+
+Links to save files.
 
 ### Sounds
 
-* Attack noise means that you’re being attacked.
-* Higher beep in tutorial is when you should press A to play a beat.
-* You should guard whenever this character begins speaking this line
-  to guard against this attack.  
+List of sounds, either described or links to sound files.
 
 ### Guides
 
