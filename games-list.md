@@ -106,3 +106,4 @@ None yet
 ### Demonstrations
 
 - [Youtube: Dissidia Final Fantasy demo](https://youtu.be/AOyEs7ta7mE)
+- [(Youtube): Dissidia Final Fantasy tutorial](https://youtu.be/4XFFAVvdk3U)
