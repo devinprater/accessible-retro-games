@@ -87,6 +87,46 @@ press right, then B to exit options.
 * Museum
 * Player settings
 * Options
+  * Battle Tutorials
+  * Battle Mode:
+	* Action Style: Freely Control Character
+	* Command Style: Control character through list of commands.
+  * Character Control:
+	* Analog Stick: Move characters with Analog Stick
+    * Directional Buttons: Move character with directional buttons.
+      In-game directions assume movement with the analog stick.
+  * Camera vertical control:
+	* Normal: look from above.
+	* Inverse: Look from below.
+  * Camera horizontal control:
+	* Normal
+	* Inverse
+  * Camera auto-follow:
+	* On: Camera follows character
+	* Off: Camera is static
+  * Camera Sensitivity: Slow, Normal, Fast
+  * Quick move Indicator: On/Off
+  * Lock On cursor display: On/Off
+  * Target Indicator: On/Off
+  * Lock on at battle Start: On/Off
+  * Battle Information:
+    * Beginner: Tips aimed at helping beginners.
+    * Normal: Information helpful to skilled players.
+    * Off: Nothing will be displayed.
+  * Movie at battle Start:
+	* Short: Intros are short.
+    * Long: Intros are extended.
+    * Random: Both short and long intros play.
+  * Battle voice subtitles: On/Off
+  * Subtitles: On/Off
+  * Skip cut scenes: On/Off
+  * BGM Volume: On/Off
+  * SFX volume: On/Off
+  * Voice Volume: On/Off
+  * Play Plan notification: On/Off
+  * Data Install
+  * Save battle replays: On/Off
+  * Data Management
 
 ### Save files
 
