@@ -13,12 +13,12 @@ Menu structure for main menu and others. Please use list items.
 
 ### Save files
 
-
 Links to save files.
 
 ### Sounds
 
-List of sounds, either described or links to sound files.
+List of unclear sounds during game play, either described or links to
+sound files.
 
 ### Guides
 
@@ -27,4 +27,3 @@ See [this guide](guides/readme.md)
 ### Demonstrations
 
 See [this](demos/readme.md)
-

@@ -1,14 +1,14 @@
 # Games list
 
-This is a list of retro video games which are
-accessible to blind people using optical character recognition,
-Retroarch’s AI service, or other means not normally used to access the
-game. This list of games will not contain links to the ROM files of
-the games unless the game is a Homebrew title, in the public domain,
-or otherwise legally distributed. It is assumed that you also, in the
-case of using a ROM, own a physical, or bought digital, copy of the
-game. Hint: for PSP games, as long as it is supported, you may buy a
-copy from the Playstation Network.
+This is a list of retro video games which are accessible to blind
+people using optical character recognition, Retroarch’s AI service, or
+by sounds and menu structure if the game is simple enough, like Mortal
+Kombat (before MK 9.) This list of games will not contain links to the
+ROM files of the games unless the game is a Homebrew title, in the
+public domain, or otherwise legally distributed. It is assumed that
+you also, in the case of using a ROM, own a physical, or bought
+digital, copy of the game. Hint: for PSP games, as long as it is
+supported, you may buy a copy from the Playstation Network.
 
 The structure of this file should be neat, availing itself to
 navigation by a screen reader’s quick navigation keys. A heading level
@@ -16,7 +16,13 @@ two should be the game’s name. Under it, a description should be given
 in a paragraph. Under any heading levels three, any notes about
 playing the game, like what sounds mean what, OCR notes, guides for
 levels, links to specific save files and what they do, menus, and so
-on. There is a [games list template](games-list-template.md) that you can use.
+on. Under the heading levels 3, there can be just about any necessary
+structure to convey your meaning. Headings level 4, 5, and 6 are okay.
+There is a [games list template](games-list-template.md) that you can
+use. When ready to commit the template, no matter at what stage of
+work, simply append the template to the end of this file, account for
+separation of Markdown blocks. All I ask is that you maintain your
+information if it is not already complete.
 
 ## Dissidia Final Fantasy
 
@@ -59,7 +65,8 @@ doesn’t read the keys to press properly:
   different HP attacks.
 * Use R to block an attack.
 * Use L to lock onto an object, like an X-core. You are automatically
-  locked onto your opponent at the beginning of a battle.
+  locked onto your opponent at the beginning of a battle, unless this
+  is changed in the options menu.
 * Use R+A to dodge.
 * Use R+Y to dash towards whatever you’re locked onto.
 * Use R+X to enter Ex-mode, when your ex-gauge is full.
@@ -91,13 +98,15 @@ Many events in Dissidia  have sounds.
 
 * When an Ex-core appears, you’ll hear a sort of magical chime.
 * When you fall into a trap, you’ll here a lower sound reminiscent of
-  of “stop” sound, then a higher sound when you can move again.
+   “stop” sound, then a higher sound when you can move again.
 * When you lock onto an opponent, you’ll hear a metallic ding. When
   you lock onto an Ex-core, you’ll hear a smaller one. When you are
   not locked onto anything, you’ll hear a retracting sound.
 * You will know when a summon has appeared when battle is paused, and
   unusual sounds play. One may be able to memorize these sounds and
   link them with summons to know what effect is being done.
+* You will know when you deplete your opponent’s BRV when there is a
+  very short pause in battle.
 
 ### Guides
 
