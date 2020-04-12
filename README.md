@@ -1,6 +1,7 @@
 # accessible-retro-games
 
-Resources for retro video games accessible to blind people, using Retroarch or other utilities to enjoy video games.
+Resources for retro video games accessible to blind people, using
+Retroarch, OCR, sound, or other utilities to enjoy video games.
 
 Included in this project (may be updated):
 
