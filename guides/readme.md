@@ -10,5 +10,7 @@ the table of contents, and if it is split into main guide and menu
 guide, link to the main guide, with a link to the menu guide within
 the main guide.
 
-Please create a folder with the name of the game you have the move
-list for, and place your files in that, and link to them from there.
+if you create a move list, for a fighting game for example, please
+create a folder with the name of the game you have the move list for,
+and place your files in that, and link to and index for them from
+there.
