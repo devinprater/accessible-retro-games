@@ -9,4 +9,4 @@ Resources:
 * [A guide for using retroarch, opens new
   site](https://docs.libretro.com/guides/retroarch-accessibility-guide/)
 * [Using PPSSPP on iOS](ppsspp-ios.md)
-* [Using PPSSPP on Windows](ppsspp-windows.org)
+* [Using PPSSPP on Windows](ppsspp-windows.md)
