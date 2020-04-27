@@ -1,29 +1,29 @@
-## Example game
+# Example game
 
 Game info
 
-### Accessibility Notes
+## Accessibility Notes
 
 Accessibility issues and workarounds, as well as instructions for
 unclear parts: controls, ways to get through levels, ETC.
 
-### Menu
+## Menu
 
 Menu structure for main menu and others. Please use list items.
 
-### Save files
+## Save files
 
 Links to save files.
 
-### Sounds
+## Sounds
 
 List of unclear sounds during game play, either described or links to
 sound files.
 
-### Guides
+## Guides
 
 See [this guide](guides/readme.md)
 
-### Demonstrations
+## Demonstrations
 
-See [this](demos/readme.md)
+See [this file](demos/readme.md)
