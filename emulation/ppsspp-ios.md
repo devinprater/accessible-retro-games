@@ -237,3 +237,8 @@ in the menu either.
 
 On Made For iPhone controllers, the start button is R2, and select is
 L2. the Menu, or Start, button opens the PPSSPP menu, which is not accessible.
+
+# Games known to not work on PPSSPP for iOS
+
+* Soul Calibur: Broken Destiny
+
