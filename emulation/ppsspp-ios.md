@@ -121,7 +121,7 @@ the PSP folder. Open that, and find the System folder. Open that, and
 find the ppsspp.ini file. This is PPSSPP’s configuration file.
 
 Drag the file, by flicking up to "drag", then double tap. Now, go back
-to the mail files screen, and find an online file storage service you
+to the main files screen, and find an online file storage service you
 like. You could use Google Drive, OneDrive, or iCloud Drive. Choose
 that, and find a folder to drop the configuration file into. When you
 are on the folder you want to drop the file into, not inside the
