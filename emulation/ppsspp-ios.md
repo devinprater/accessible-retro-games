@@ -162,11 +162,11 @@ You can find places to connect to at <https://ppsspp.org/adhoc.html>.
 
 	MacAddress = 
 
-The Mac address is a random address which differentiates your device
-from others in a server or network, or something like that. This is,
-at least, what it does in PPSSPP. If you play online, you’ll need to
-make this different from the default. Perhaps you can use your phone’s
-Mac Address to make it different enough.
+The Mac (Media Access Control) address is a random alphanumeric sequence that is
+tied to your NIC (Network Interface Card) and uniquely identifies your device on
+a network. If you play online, you’ll need to make this different from the
+default. Perhaps you can use your phone’s Mac Address to make it different
+enough.
 
 Now, save that into iCloud Drive. If you already had it there, you
 don’t have to move it there again. On your iPhone, drag and drop that
