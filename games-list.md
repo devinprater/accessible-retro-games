@@ -12,7 +12,7 @@ supported, you may buy a copy from the Playstation Network.
 
 The structure of this file should be neat, availing itself to
 navigation by a screen reader’s quick navigation keys. There is a
-[games list template](games-list-template.md) that you can use. When
+[games list template](games-list-template.md) that you can use. Guides not originally created for this repository don't have to follow this. When
 ready to commit the template, no matter at what stage of work, simply
 put the template, renamed with the name of the game, in the guides
 folder. All I ask is that you maintain your information if it is not
@@ -20,4 +20,6 @@ already complete.
 
 ## Games list
 
-- [Dissidia Final Fantasy](/guides/dissidia%20final%20fantasy.md)
+* [Dissidia Final Fantasy](/guides/dissidia%20final%20fantasy.md)
+* [Pokemon Black and White](/guides/BW_Entire_Game.md
+* [Pokemon Platinum](/guides/Pokemon_Platinum_Accessible_Guide.md)
