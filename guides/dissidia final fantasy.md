@@ -1,4 +1,4 @@
-# Dissidia Final Fantasy
+﻿# Dissidia Final Fantasy
 
 This game is a fighting game, with 3D combat in an open area for the stages.
 There are traps and obstacles, which do not make a sound until one interacts
@@ -22,23 +22,20 @@ giving your name, extra experience day, and gamer type (difficulty), you can
 continue to the tutorial.
 
 The tutorial will teach you how to play Dissidia, but here are the things you
-must know, in case OCR, or the AI service in Retroarch, doesn’t read the keys to
+must know, in case OCR, or the AI service in Retroarch, doesn’t read the buttons to
 press properly:
 
 ### Keys
 
-Note that keys are given in the XBox style of buttons, because I am less
-familiar with Playstation style buttons.
-
-* To use a bravery attack (BRV), use the B button. You can use   different BRV attacks by using B in combination with Up or Down on   the left analog stick.
-* Use A to jump.
-* Use Y to interact with stage objects, like to jump down from a ledge, or zip across … whatever that thing is.
-* Use X to do an HP attack. Again, use Up and Down to perform different HP attacks.
+* To use a bravery attack (BRV), use the Circle button. You can use   different BRV attacks by using Circle in combination with Up or Down on   the left analog stick.
+* Use X  to jump.
+* Use Triangle to interact with stage objects, like to jump down from a ledge, or zip across … whatever that thing is.
+* Use Square to do an HP attack. Again, use Up and Down to perform different HP attacks.
 * Use R to block an attack.
 * Use L to lock onto an object, like an X-core. You are automatically locked onto your opponent at the beginning of a battle, unless this is changed in the options menu.
 * Use R+A to dodge.
 * Use R+Y to dash towards whatever you’re locked onto.
-* Use R+X to enter Ex-mode, when your ex-gauge is full.
+* Use R+Square to enter Ex-mode, when your ex-gauge is full.
 
 ### Pre-fight dialog
 
@@ -80,7 +77,7 @@ through leveling up.
 
 Once the chase mode has been entered, you’ll hear a specific, electronic sound.
 You could choose not to chase by just doing nothing for a moment, and they’ll
-hit the ground a distance away. Or, you can chase by pressing A. You’ll hear the
+hit the ground a distance away. Or, you can chase by pressing X. You’ll hear the
 dashing sound. At this point, you can do a BRV attack or an HP attack. These are
 special, short attacks in chase mode. If your attack hits, you can chase after
 them again to attack once more. If you hear the “wall rush” sound, that means
@@ -88,7 +85,7 @@ you’ve hit them hard enough to slam them into a wall, and the chase ends there
 
 However, your chases won’t always be so smooth. Your opponent is able to dodge
 out of the way. Then, they can chase you in return. You’ll have to dodge their
-attack with A, either HP or BRV. It is not clear which attack they will use. BRV
+attack with X, either HP or BRV. It is not clear which attack they will use. BRV
 attacks, on both sides, are usually faster. HP attacks usually are slower, and
 you may have some warning in advance. Chases, then, have an element of timing
 and guessing, which livens things up a good deal.
@@ -109,7 +106,7 @@ worry about that.
 ### Music volume
 
 The music can be turned off. To do this, when in the main menu, after the title
-screen, move up one, press A, then move up seven times, and press right, then B
+screen, move up one, press X, then move up seven times, and press right, then Circle
 to exit options.
 
 ### Customization
@@ -117,10 +114,10 @@ to exit options.
 You can customize your character in the game to use different attacks, change
 equipment, or add summons or items. You’ll need OCR for this.
 
-To begin, go to the character select screen, and press Y. You have your main
-list of categories, including abilities, equipment, and summons. If you press A
+To begin, go to the character select screen, and press Triangle. You have your main
+list of categories, including abilities, equipment, and summons. If you press X
 on the first menu item, abilities, you’ll be in the menu with “active”,
-“passive” abilities, and a way to reset them. Press A again on the first item,
+“passive” abilities, and a way to reset them. Press X again on the first item,
 and you’ll be in the “active” abilities. Here, you have BRV attacks and HP
 attacks. Choose which category you want to configure, and you’re given six
 “slots”. These are
@@ -147,14 +144,14 @@ Once you’ve “set” an attack, you’ll hear a satisfying “ching” sound.
 can’t choose the attack, you’ll hear an error sound. If you “unset” an attack,
 you’ll hear a different sound than the “set” sound.
 
-Once you’ve set an attack, back out of that menu with B, and you’ll be back in
-the list of slots. Once you’re done configuring that, press B until you’re back
+Once you’ve set an attack, back out of that menu with Circle, and you’ll be back in
+the list of slots. Once you’re done configuring that, press Circle until you’re back
 to the character select screen, and your settings should then work.
 
 For customizing your equipment, it is easiest to “optimize equipment.” To do
-this, go to the customization screen, press Down once to “equipment,” A to
+this, go to the customization screen, press Down once to “equipment,” X to
 select, then hold Down until you reach the bottom of the menu, which should be
-“optimize equipment,” press A, then Left, then A again to complete it. You’ll
+“optimize equipment,” press X, then Left, then X again to complete it. You’ll
 hear the same “ability set” sound as if you’ve just set an ability.
 
 ### Quick Battle setup
