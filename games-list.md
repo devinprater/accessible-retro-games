@@ -21,6 +21,6 @@ already complete.
 
 ## Games list
 
-* [Dissidia Final Fantasy](/guides/dissidia%20final%20fantasy.md)
+* [Dissidia Final Fantasy](/guides/dissidia-final-fantasy.md)
 * [Pokemon Black and White](/guides/BW_Entire_Game.md)
 * [Pokemon Platinum](/guides/Pokemon_Platinum_Accessible_Guide.md)
